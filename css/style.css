@@ -4,4 +4,5 @@
 @import "./home/introducao.css";
 @import "./ultilidades/componentes.css";
 @import "./ultilidades/cores.css";
-@import "./bicicletas/bicicletas-lista.css"
+@import "./bicicletas/bicicletas-lista.css";
+@import "./home/tecnologia.css"
