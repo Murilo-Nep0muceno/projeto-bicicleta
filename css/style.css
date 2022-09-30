@@ -3,4 +3,5 @@
 @import "./ultilidades/tipografia.css";
 @import "./home/introducao.css";
 @import "./ultilidades/componentes.css";
-@import "./ultilidades/cores.css"
+@import "./ultilidades/cores.css";
+@import "./bicicletas/bicicletas-lista.css"
